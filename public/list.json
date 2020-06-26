@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "info": "Racing car",
+    "done": true
+  },
+  {
+    "id": 2,
+    "info": "Japanse princess",
+    "done": true
+  },
+  {
+    "id": 3,
+    "info": "Man charged",
+    "done": false
+  }
+]
